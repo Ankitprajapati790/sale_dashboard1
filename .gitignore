@@ -1,0 +1,4 @@
+# Prevent build output from being pushed
+.next
+node_modules
+dist
